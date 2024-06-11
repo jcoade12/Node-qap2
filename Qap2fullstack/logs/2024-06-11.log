@@ -1,0 +1,24 @@
+2024-06-11T22:28:35.917Z - Route accessed: /
+2024-06-11T22:28:35.927Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/index.html
+2024-06-11T22:28:35.970Z - Route accessed: /favicon.ico
+2024-06-11T22:28:35.972Z - Error reading file: /Users/keyinstudent/Qap2fullstack/views/favicon.ico.html. Error: File not found
+2024-06-11T22:28:37.690Z - Route accessed: /about
+2024-06-11T22:28:37.692Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/about.html
+2024-06-11T22:28:38.486Z - Route accessed: /contact
+2024-06-11T22:28:38.488Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/contact.html
+2024-06-11T22:28:39.084Z - Route accessed: /products
+2024-06-11T22:28:39.086Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/products.html
+2024-06-11T22:28:39.569Z - Route accessed: /subscribe
+2024-06-11T22:28:39.570Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/subscribe.html
+2024-06-11T22:34:27.178Z - Route accessed: /
+2024-06-11T22:34:27.183Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/index.html
+2024-06-11T22:34:28.924Z - Route accessed: /
+2024-06-11T22:34:28.925Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/index.html
+2024-06-11T22:34:29.558Z - Route accessed: /about
+2024-06-11T22:34:29.559Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/about.html
+2024-06-11T22:34:30.122Z - Route accessed: /contact
+2024-06-11T22:34:30.123Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/contact.html
+2024-06-11T22:34:30.608Z - Route accessed: /products
+2024-06-11T22:34:30.610Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/products.html
+2024-06-11T22:34:31.073Z - Route accessed: /subscribe
+2024-06-11T22:34:31.074Z - File read successfully: /Users/keyinstudent/Qap2fullstack/views/subscribe.html
